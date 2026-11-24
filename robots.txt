@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://samasourcing.github.io/sitemap.xml
