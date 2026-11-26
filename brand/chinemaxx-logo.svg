@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">ChineMaxx</title>
+  <desc id="desc">Logotype ChineMaxx, lettrage blanc sur fond rouge, signature Votre partenaire de confiance sur bandeau noir.</desc>
+  <rect width="720" height="174" fill="#c8102e"/>
+  <rect y="174" width="720" height="66" fill="#111418"/>
+  <text x="48" y="126" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-style="italic" font-weight="700" letter-spacing="-3">ChineMaxx</text>
+  <text x="52" y="214" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4.4">VOTRE PARTENAIRE DE CONFIANCE</text>
+</svg>
